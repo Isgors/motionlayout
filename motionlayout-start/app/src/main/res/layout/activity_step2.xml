@@ -38,7 +38,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:srcCompat="@drawable/ic_star_outline"
-            android:tint="?colorOnPrimary"
+            app:tint="?colorOnPrimary"
             android:contentDescription="@string/star"
     />
 
@@ -47,7 +47,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:srcCompat="@drawable/ic_star_outline"
-            android:tint="?colorOnPrimary"
+            app:tint="?colorOnPrimary"
             android:contentDescription="@string/star"
     />
 
@@ -56,7 +56,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:srcCompat="@drawable/ic_star_outline"
-            android:tint="?colorSecondary"
+            app:tint="?colorSecondary"
             android:contentDescription="@string/star"
     />
 
